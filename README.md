@@ -48,7 +48,7 @@ Demo of **sass-extract** using the [sass-extract-loader](https://github.com/jgra
 
 ## Installation
 ```bash
-npm install --save node-sass sass-extract
+npm install --save sass sass-extract
 ```
 *Note that the node-sass compiler have to be installed as it is a peer dependency of sass-extract.*
 
